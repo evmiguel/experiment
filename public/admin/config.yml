@@ -2,7 +2,7 @@ backend:
   name: github
   repo: evmiguel/experiment
   branch: main # Branch to update (optional; defaults to master)
-  base_url: luminous-syrniki-43f6f3.netlify.app
+  site_domain: luminous-syrniki-43f6f3.netlify.app
 media_folder: public/img
 public_folder: img
 collections:
