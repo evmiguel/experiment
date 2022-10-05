@@ -1,6 +1,8 @@
 backend:
-  name: test-repo
+  name: github
+  repo: evmiguel/experiment
   branch: main # Branch to update (optional; defaults to master)
+  base_url: https://dev.bocoup.com
 media_folder: public/img
 public_folder: img
 collections:
